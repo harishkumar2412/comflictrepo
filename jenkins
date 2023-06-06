@@ -1,1 +1,4 @@
 this is my jenkins file
+pipelien{
+    #this is my groovy code
+}
