@@ -1,4 +1,4 @@
 this is my jenkins file
-pipelien{
+pipeline{
     #this is my groovy code
 }
